@@ -1,4 +1,4 @@
-# SDE API Round - IRCTC Backend
+# SDE API Round - IRCTC
 
 ## Project Overview
 
